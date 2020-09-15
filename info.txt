@@ -1,0 +1,11 @@
+Bank: Barclays
+Type: Retail
+Email: info@barclays.com
+Type: Retail
+
+New Data added
+New Data added
+New Data added
+New Data added
+New Data added
+New Data added
